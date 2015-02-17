@@ -1,6 +1,11 @@
 RunKeeper.js (`runkeeper-js`) - RunKeeper HealthGraph API Client Library for Node.js
 ==============================================================
 
+## FORKED BY KLAAS CUVELIER
+Added params to Api calls + catch errors
+ More updates to come
+
+
 This is an API Client and Wrapper for the [RunKeeper Health Graph API](http://developer.runkeeper.com/healthgraph) in active development and maintained on NPM. It is based on `node-runkeeper` (see Contributors for more info).
 
 ## Installation
